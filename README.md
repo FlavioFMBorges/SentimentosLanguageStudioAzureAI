@@ -24,11 +24,11 @@ O interessante é ver o reconhecimento das palavras chaves encontradas pelo Azur
 ### Segunda parte:  
 0 - Entrar no site https://language.cognitive.azure.com/?azure-portal=true;  
 1 - Na janela que abrir selecionar a subscrição e nome de recurso que vc acabou de criar;  
-2 - Clicar no botão Done;  
-![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/4.jpg)  
+2 - Clicar no botão Done;   
 3 - Ir na Aba Classify text;  
-![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/5.jpg)  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/4.jpg)
 4 - Ir no Box Analyze sentiment and opinions;  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/5.jpg)  
 5 - Inserir um texto para language studio, como o exemplo que segue abaixo.  
   
 "Tired hotel with poor service  
