@@ -13,16 +13,21 @@ O interessante é ver o reconhecimento das palavras chaves encontradas pelo Azur
 ### Primeira parte:  
 0 - Entrar no site https://portal.azure.com/  
 1 - Criar um recurso;  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/1.jpg)  
 2 - Opção Ai + Machine Learning;  
 3 - Language service - create;  
 4 - Clicar no botão continue to create your resource;  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/2.jpg)  
 5 - Botão create, aguardar o deployit.  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/3.jpg)  
   
 ### Segunda parte:  
 0 - Entrar no site https://language.cognitive.azure.com/?azure-portal=true;  
 1 - Na janela que abrir selecionar a subscrição e nome de recurso que vc acabou de criar;  
 2 - Clicar no botão Done;  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/4.jpg)  
 3 - Ir na Aba Classify text;  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/5.jpg)  
 4 - Ir no Box Analyze sentiment and opinions;  
 5 - Inserir um texto para language studio, como o exemplo que segue abaixo.  
   
@@ -32,3 +37,4 @@ The Royal hotel, London, United Kingdom
 This is an old hotel (has been around since 1950's) and the room furnishings are average -  becoming a bit old now and require changing. The internet didn't work and had to come to one of their office rooms to check in for my flight home. The website says it's close to the British Museum, but it's too far to walk."  
 
 6 - Botão run.  
+![](https://github.com/FlavioFMBorges/SentimentosLanguageStudioAzureAI/blob/main/Inputs/6.jpg)  
